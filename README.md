@@ -9,7 +9,6 @@ This folder and ArcherMovement.py should be in the same folder. <br>
 <i>A</i>: Move archer left <br> 
 <i>D</i>: Move archer right <br> 
 <i>W</i>: Jump <br> 
-<i>S</i>: Crouch <br> 
 <i>Space</i>: Fire <br>
 <i>L-Ctrl</i>: Crouch <br>
 
